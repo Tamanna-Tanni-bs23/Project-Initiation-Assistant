@@ -1,0 +1,4 @@
+anthropic>=0.92.0
+pydantic>=2
+google-api-python-client>=2
+google-auth>=2
